@@ -48239,7 +48239,7 @@ case 3:return P.a4(null,r)}})
 return P.a5($async$kp,r)},
 R:function(a,b){var s,r,q=null,p=t.w,o=b.a1(p).f
 o=b.a1(p).f.a.a<650?o.a.a*0.94:500
-p=b.a1(p).f.a.a<650?240:280
+p=b.a1(p).f.a.a<650?250:280
 s=H.b([new O.fc(3,C.pv,C.i,10)],t.ec)
 r=t.fQ
 return new M.r4(T.lx(H.b([M.lB(q,new F.oF(q),q,q,new S.fV(C.j,q,q,K.abs(new P.bD(11,11)),s,q,C.ay),p,q,q,o),new T.fw(C.uN,T.Qy(H.b([T.a2W(Z.a_I(!1,L.dM("\u62e8\u6253\u7535\u8bdd",q,q,A.co(q,q,C.j,q,q,q,q,q,q,q,q,q,q,C.S,q,q,!0,q,q,q,q,q,q)),C.D,C.oa,0,5,C.hP,q,4,q,8,q,4,q,q,new F.Oh(this),C.nd,C.pw,q),1),T.ky(q,q,40),T.a2W(Z.a_I(!1,L.dM("\u590d\u5236\u5fae\u4fe1",q,q,A.co(q,q,C.j,q,q,q,q,q,q,q,q,q,q,C.S,q,q,!0,q,q,q,q,q,q)),C.D,C.oa,0,5,C.hP,q,4,q,8,q,4,q,q,new F.Oi(),C.nd,C.pw,q),1)],r),C.aS,C.fu),q)],r),C.aS,C.m9),q)}}
