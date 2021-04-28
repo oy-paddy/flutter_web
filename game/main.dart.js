@@ -50782,7 +50782,7 @@ F.jx.prototype={
 j6:function(){var s=0,r=P.Z(t.z),q=this
 var $async$j6=P.U(function(a,b){if(a===1)return P.W(b,r)
 while(true)switch(s){case 0:s=2
-return P.a1(P.akl("106.55.249.40",7779).al(0,new F.Wf(q),t.P).ev(new F.Wg(q)),$async$j6)
+return P.a1(P.akl("192.168.0.102",7779).al(0,new F.Wf(q),t.P).ev(new F.Wg(q)),$async$j6)
 case 2:return P.X(null,r)}})
 return P.Y($async$j6,r)},
 r_:function(a,b){$.CK.jp(0,new T.Aa(this.b,a,b).G_())},
@@ -51132,7 +51132,7 @@ s.a=20
 this.cy=P.a5n(C.hh,new T.a_N(s,this))},
 GF:function(){var s=null,r=B.aja(s,s,s,s,s,s,s,s,s,s,s,s,s)
 r.a="GET"
-this.db.FN(0,"http://106.55.249.40:7778/getOnlineStatus",s,s,r,s,t.z).al(0,new T.a_J(this),t.P)},
+this.db.FN(0,"http://192.168.0.102:7778/getOnlineStatus",s,s,r,s,t.z).al(0,new T.a_J(this),t.P)},
 b6:function(){var s=this
 s.GF()
 s.ws()
